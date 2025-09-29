@@ -1,0 +1,26 @@
+{
+	"name": "Geometrica Dev Container",
+	"build": {
+		// Tells the Dev Container to use our Dockerfile
+		"dockerfile": "../Dockerfile"
+	},
+	// Port forwarding: Map port 8080 inside the container to port 8080 on the host machine
+	"forwardPorts": [8080],
+
+	// Install useful VS Code extensions inside the container
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"dbaeumer.vscode-eslint",
+				"esbenp.prettier-vscode",
+				"ms-vscode.vscode-typescript-next"
+			]
+		}
+	},
+
+	// Command to run after the container is created
+	"postCreateCommand": "npm install",
+
+	// Use a remote user to avoid running as root
+	"remoteUser": "node"
+}
