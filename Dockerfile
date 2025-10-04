@@ -6,7 +6,7 @@ ARG SLANG_URL=https://github.com/shader-slang/slang/releases/download/v${SLANG_V
 # Base image
 FROM node:18-slim AS base
 WORKDIR /app
-RUN apt-get update && apt-get install -y wget tar
+RUN apt-get update && apt-get install -y wget tar && apt-get clean && rm -f /var/lib/apt/lists/*
 
 # Fetch the Slang compiler (kept in a separate stage)
 FROM base AS slang-installer
