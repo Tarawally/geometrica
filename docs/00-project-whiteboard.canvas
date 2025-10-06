@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"ac42c425c8f85ef4","x":800,"y":-60,"width":290,"height":600,"type":"group","label":"Legend"},
+		{"id":"ac42c425c8f85ef4","type":"group","x":880,"y":100,"width":290,"height":600,"label":"Legend"},
 		{"id":"412a1439168c1f9f","type":"text","text":"[[workflow]]","x":-540,"y":-360,"width":250,"height":60},
-		{"id":"3b85fb60cf7a2b33","type":"text","text":"**User Feature / Story**\n\n(e.g., \"See a spinning cube\")\n==Maps to: C4 Arrow Labels==","x":820,"y":100,"width":250,"height":120,"color":"4"},
-		{"id":"f592f9f98b2d51db","type":"text","text":"**Component / Module**\n\n(e.g., Renderer, UI Engine)\n==Maps to: C4 Level 3==","x":820,"y":244,"width":250,"height":116,"color":"6"},
-		{"id":"a884781a4980d172","type":"text","text":"**Technical Concept / Skill**\n\n(e.g., BufferGeometry, TypeScript)\n==Maps to: C4 Level 4 Details==","x":820,"y":380,"width":250,"height":140,"color":"5"},
-		{"id":"f7da3162a7356764","type":"text","text":"**Actor / External System**\n\n(e.g., User, Browser)\n==Maps to: C4 Level 1==","x":820,"y":-40,"width":250,"height":120}
+		{"id":"3b85fb60cf7a2b33","type":"text","text":"**User Feature / Story**\n\n(e.g., \"See a spinning cube\")\n==Maps to: C4 Arrow Labels==","x":900,"y":260,"width":250,"height":120,"color":"4"},
+		{"id":"f592f9f98b2d51db","type":"text","text":"**Component / Module**\n\n(e.g., Renderer, UI Engine)\n==Maps to: C4 Level 3==","x":900,"y":404,"width":250,"height":116,"color":"6"},
+		{"id":"a884781a4980d172","type":"text","text":"**Technical Concept / Skill**\n\n(e.g., BufferGeometry, TypeScript)\n==Maps to: C4 Level 4 Details==","x":900,"y":540,"width":250,"height":140,"color":"5"},
+		{"id":"f7da3162a7356764","type":"text","text":"**Actor / External System**\n\n(e.g., User, Browser)\n==Maps to: C4 Level 1==","x":900,"y":120,"width":250,"height":120}
 	],
 	"edges":[]
 }

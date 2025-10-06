@@ -7,7 +7,7 @@ This is exactly how complex systems are designed. Let's walk through the detaile
 
 ---
 
-### **Phase 1: The Whiteboard - Exploration & Discovery**
+### Phase 1: The Whiteboard - Exploration & Discovery
 
 **Objective:** To create a rich dependency graph on your Obsidian Canvas that captures all known features, concepts, and their interconnections. This is your "raw ore."
 
@@ -39,7 +39,7 @@ This is exactly how complex systems are designed. Let's walk through the detaile
 
 ---
 
-### **Phase 2: The Synthesis - Formalizing into C4 Diagrams**
+### Phase 2: The Synthesis - Formalizing into C4 Diagrams
 
 **Objective:** To systematically "read" your whiteboard canvas and distill its contents into a clean set of C4 diagrams in your `DESIGN.md` files. This is where you refine the ore.
 
