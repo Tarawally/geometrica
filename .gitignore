@@ -13,6 +13,7 @@ yarn-error.log*
 # IDE / Editor specific
 .vscode/
 .idea/
+.obsidian/
 *.suo
 *.ntvs*
 *.njsproj
