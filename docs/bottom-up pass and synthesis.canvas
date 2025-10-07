@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"fd3253aa68746a9e","type":"text","text":"HTML canvas","x":-461,"y":-320,"width":141,"height":50,"color":"5"},
+		{"id":"86603a0bd2fc5016","type":"text","text":"JavaScript\n","x":-133,"y":-223,"width":133,"height":50,"color":"5"},
+		{"id":"f50c3f59501c2109","type":"text","text":"Camera","x":-420,"y":-80,"width":120,"height":50,"color":"5"},
+		{"id":"89d67b2f54d1563a","type":"text","text":"Renderer","x":-87,"y":-28,"width":127,"height":50,"color":"5"},
+		{"id":"5e0d4f5c0edbc735","type":"text","text":"OrbitControls","x":-360,"y":100,"width":160,"height":50,"color":"5"},
+		{"id":"fb861c5cb6ee159f","type":"text","text":"UI libarary (lil-gui)","x":-41,"y":58,"width":184,"height":50,"color":"5"},
+		{"id":"97865ed3a2bb8254","type":"text","text":"BufferGeometry and vertices","x":250,"y":-21,"width":271,"height":50,"color":"5"},
+		{"id":"eadf9235c8d47507","type":"text","text":"Mesh (geometry + material)","x":220,"y":-185,"width":260,"height":50,"color":"5"},
+		{"id":"e4803922a76595cd","type":"text","text":"Three.js scene","x":143,"y":-330,"width":155,"height":50,"color":"5"},
+		{"id":"fe67988a87c316f6","x":250,"y":130,"width":250,"height":50,"color":"5","type":"text","text":"JavaScript loops (for/while)"},
+		{"id":"7f1ef733021f610c","x":-811,"y":-335,"width":176,"height":50,"color":"6","type":"text","text":"Renderer engine"},
+		{"id":"ddc7e42e9d7bc820","x":-770,"y":-205,"width":170,"height":50,"color":"6","type":"text","text":"Geometry engine"},
+		{"id":"47c6a082de6c89d5","x":-749,"y":-92,"width":149,"height":50,"color":"6","type":"text","text":"UI controller"}
+	],
+	"edges":[]
+}
