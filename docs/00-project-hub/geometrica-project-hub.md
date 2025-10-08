@@ -8,7 +8,7 @@
 
 A brief statement to keep the project's ultimate goal in focus.
 
-> **To build an interactive, educational geometry visualization tool as a vehicle for learning modern programming and software design principles.**
+> **To build an interactive, educational geometry visualisation tool as a means for learning modern programming and software design principles.**
 
 ---
 
@@ -53,13 +53,13 @@ This is the official, sequential roadmap for the "Geometrica" project. Each rung
 - [ ] [[rung-7-introduction-to-shaders|Rung 7: Introduction to Shaders]]
   - *Key Concepts:* `[[shaders]]`, `[[glsl]]`, `[[slang]]`, `[[uniforms]]`, `[[vertex-shader]]`, `[[fragment-shader]]`
 
-- [ ] [[rung-8-non-euclidean-geometry|Rung 8: Visualizing Non-Euclidean Geometry]]
+- [ ] [[rung-8-non-euclidean-geometry|Rung 8: Visualising Non-Euclidean Geometry]]
   - *Key Concepts:* `[[hyperbolic-geometry]]`, `[[poincare-disk-model]]`, `[[mobius-transformation]]`
 
-- [ ] [[rung-9-higher-dimensional-geometry|Rung 9: Visualizing Higher-Dimensional Geometry]]
+- [ ] [[rung-9-higher-dimensional-geometry|Rung 9: Visualising Higher-Dimensional Geometry]]
   - *Key Concepts:* `[[4d-geometry]]`, `[[tesseract]]`, `[[projections]]`
 
-### Chapter 4: Project Professionalization
+### Chapter 4: Project Professionalisation
 
 - [ ] [[rung-10-structuring-a-real-project|Rung 10: Structuring a Real Project]]
   - *Key Concepts:* `[[typescript]]`, `[[modules]]`, `[[build-tools]]`
