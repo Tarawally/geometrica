@@ -20,7 +20,7 @@ As the project is in Phase I, there are no build tools or installation steps.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/geometrica.git
+   git clone https://github.com/Tarawally/geometrica.git
    ```
 
 2. Go to the project directory:
