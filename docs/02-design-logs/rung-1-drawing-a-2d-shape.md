@@ -29,7 +29,7 @@ graph TD
         B[Get the canvas element from the DOM using its ID];
         C[Get the canvas's 2D rendering context];
         D[Set the 'fillStyle' property of the context to a colour];
-        E[Call the 'fillRect' method on the context to draw the shape];
+        E[Call the 'fillRect' method on the context to draw the rectangle];
     end
     
     A -- "Is referenced by" --> B;
