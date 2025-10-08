@@ -17,7 +17,7 @@ A brief statement to keep the project's ultimate goal in focus.
 A quick overview of the project's current state.
 
 -   **Current Focus:** [[rung-1-drawing-a-2d-shape|Rung 1: Drawing a 2D Shape]]
--   **Overall Progress:** [▓▓░░░░░░░░░░] 16% (2/12 Rungs Completed) 
+-   **Overall Progress:** [░░░░░░░░░░░░] 0% (0/12 Rungs Completed) 
     *This will be updated manually after completing each rung.*
 
 ---
