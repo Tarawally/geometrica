@@ -48,6 +48,6 @@ Please note: the documentation uses Obsidian’s `[[WikiLink]]` format, which ma
 
 ---
 
-## Licence
+## License
 
-This project is licensed under the MIT licence. You are free to use, modify and learn from the code and documentation. See the [LICENCE](LICENSE) file for full details.
+This project is licensed under the MIT License. You are free to use, modify and learn from the code and documentation. See the [LICENSE](LICENSE) file for full details.
