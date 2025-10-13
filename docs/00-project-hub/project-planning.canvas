@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"046bea53e56451ea","type":"file","file":"docs/00-project-hub/google-ai-studio.md","x":-380,"y":-142,"width":400,"height":400},
+		{"id":"50ab9170bdc29768","type":"file","file":"docs/02-design-logs/google-ai-studio/pull-requests.md","x":60,"y":-142,"width":400,"height":400},
+		{"id":"6e979a380eb1e4a7","x":-1260,"y":300,"width":380,"height":400,"type":"text","text":"![[geometrica-project-hub#Chapter 1 The Fundamentals]]"},
+		{"id":"c3e676f0ea1f1722","type":"file","file":"docs/02-design-logs/chapter-1/rung-1-drawing-a-2d-shape.md","x":-820,"y":300,"width":400,"height":400},
+		{"id":"ef57d93d0c652863","type":"file","file":"docs/00-project-hub/geometrica-project-hub.md","x":-820,"y":-142,"width":400,"height":400},
+		{"id":"cdf9895a4611f59a","type":"file","file":"docs/00-project-hub/project-whiteboard.canvas","x":-1260,"y":-142,"width":400,"height":400}
+	],
+	"edges":[]
+}

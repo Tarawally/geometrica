@@ -11,11 +11,11 @@ status: "done"
 
 ---
 
-### 1. The Story (The Goal)
+## 1. The Story (The Goal)
 
 *As a new learner, I want to see a simple 2D shape (a rectangle) on the screen, so I can understand the absolute basics of rendering graphics in a web browser.*
 
-### 2. The Design (The Plan)
+## 2. The Design (The Plan)
 
 This flowchart outlines the steps required to render a 2D shape. The design separates the structural HTML from the behavioural JavaScript, which will be in two separate files.
 
