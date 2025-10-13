@@ -19,11 +19,13 @@ This phase focuses on the core rendering logic and visualisation algorithms usin
 As the project is in Phase I, there are no build tools or installation steps.
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/Tarawally/geometrica.git
    ```
 
 2. Go to the project directory:
+
    ```bash
    cd geometrica
    ```
@@ -39,6 +41,7 @@ As the project is in Phase I, there are no build tools or installation steps.
 This project is developed with a strong emphasis on up‑front design and a transparent architectural process. The journey from high‑level sketches to detailed feature design is documented and version‑controlled in the `/docs` directory.
 
 This directory is an [Obsidian](https://obsidian.md/) vault that serves as the project’s “second brain” and includes:
+
 - The project whiteboard: the initial visual brainstorm and dependency map.
 - The development roadmap: the “Learning Ladder” that sequences the project’s features.
 - Detailed design logs: formal design documents for every feature, written before the code, following a progressive formalisation model inspired by C4.
