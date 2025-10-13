@@ -27,9 +27,9 @@
 		{"id":"399acdea2c46ba1e","type":"text","text":"UI controller","x":826,"y":-1775,"width":149,"height":50,"color":"6"},
 		{"id":"9e3f306904f143b5","type":"text","text":"Renderer","x":477,"y":-1592,"width":127,"height":50,"color":"5"},
 		{"id":"0219a968d0d9a60e","type":"text","text":"Camera","x":481,"y":-1662,"width":120,"height":50,"color":"5"},
-		{"id":"5f7452fdc36e9bd4","type":"file","file":"docs/02-design-logs/google-ai-studio/pull-requests.md","x":-545,"y":-860,"width":240,"height":100},
+		{"id":"5f7452fdc36e9bd4","type":"file","file":"docs/02-design-logs/pull-requests.md","x":-545,"y":-860,"width":240,"height":100},
 		{"id":"819809401c42e5a2","type":"file","file":"docs/00-project-hub/google-ai-studio.md","x":-580,"y":-1020,"width":310,"height":100},
-		{"id":"1bb362d1cfb280ac","x":-190,"y":-1060,"width":400,"height":400,"type":"file","file":"docs/02-design-logs/chapter-1/rung-1-drawing-a-2d-shape.md"}
+		{"id":"1bb362d1cfb280ac","x":-190,"y":-1060,"width":400,"height":400,"type":"file","file":"docs/02-design-logs/rung-1-drawing-a-2d-shape.md"}
 	],
 	"edges":[
 		{"id":"da0a720f1bdad0c1","fromNode":"4e5dd0f5b45bc82a","fromSide":"right","toNode":"4558386ac0bcbc44","toSide":"left"},
